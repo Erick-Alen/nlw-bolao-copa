@@ -1,0 +1,1 @@
+Fastify, Prisma(facilidade de manipular o banco de dados), Diagrama ERD(banco de dados), Setup front: Next.js (framework do react, disponibilizando um servidor back-end node - conceito de server side rendering) 
